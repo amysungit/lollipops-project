@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Lollipops Project
+## Lollipops Project Structure
 
 *Default Structure for A Basic Project*
 
